@@ -4,7 +4,7 @@ Forkify - Foodie Project with API calls - Udemy hands on
 This project build with JavaScript on node.js environment. 
 This application will fetch food recipes based on the keyword serach using the API calls.
 
-###dependencies
+### Dependencies
 
 "devDependencies": {
     "@babel/core": "^7.11.6",
